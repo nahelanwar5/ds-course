@@ -47,3 +47,17 @@ def most_common_word(text):
     counts= count_words(text)
     maxim= max(counts, key=counts.get)
     return maxim
+
+def grades(score):  
+    try:
+        if score > 100 or score < 0:
+            raise ValueError(score)
+        if score>=80:
+            return "A"
+        if score>=65:
+            return "B"
+        if score>=50:
+            return "C"
+        return "F"
+    except ValueError as e:
+        return f"{e} is >100"
