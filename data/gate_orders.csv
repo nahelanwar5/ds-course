@@ -1,0 +1,421 @@
+order_id,customer_id,order_date,product_category,quantity,unit_price,discount_code,status,rating
+O0001,C040,2026-06-07,books,1,$12.38,,delivered,
+O0002,C110,2026-04-13,HOME ,2,$18.78,VIP20,delivered,5.0
+O0003,C103,2026-04-10,Home,1,$54.43,,delivered,1.0
+O0004,C102,2026-03-08,Beauty,1,$35.66,,delivered,2.0
+O0005,C058,2026-04-01, home,4,$66.18,,delivered,4.0
+O0006,C066,2026-05-27,TOYS ,2,$55.42,WELCOME,delivered,1.0
+O0007,C052,2026-01-30,Books,1,$8.84,,delivered,
+O0008,C021,2026-03-03,Home,3,$50.08,,delivered,2.0
+O0009,C027,2026-04-16,TOYS ,1,$29.03,VIP20,delivered,5.0
+O0010,C030,2026-06-01,Home,3,$87.18,WELCOME,delivered,2.0
+O0011,C031,2026-01-24,beauty,4,$25.52,,delivered,1.0
+O0012,C079,2026-01-08,Electronics,2,$199.00,WELCOME,delivered,2.0
+O0013,C005,2026-05-31,Beauty,2,$30.39,,delivered,3.0
+O0014,C108,2026-01-10,home,1,$69.02,,delivered,5.0
+O0015,C071,2026-06-14,home,2,$16.92,,delivered,5.0
+O0016,C041,2026-01-02,BEAUTY,1,$37.70,,delivered,
+O0017,C016,2026-05-12,toys,1,$40.11,,delivered,1.0
+O0018,C101,2026-02-10,home,2,$45.87,VIP20,delivered,3.0
+O0019,C012,2026-02-05, books,4,$10.17,,delivered,2.0
+O0020,C091,2026-02-07,HOME ,1,$24.64,VIP20,returned,
+O0021,C017,2026-06-02,Beauty,1,$42.39,,delivered,
+O0022,C109,2026-06-09,Electronics,4,$123.02,,delivered,
+O0023,C050,2026-02-28,books,1,$22.81,,delivered,1.0
+O0024,C017,2026-02-02,electronics ,1,$240.94,,delivered,4.0
+O0025,C099,2026-04-19,Books,2,$19.27,,returned,
+O0026,C038,2026-03-24,Electronics,1,$74.40,WELCOME,delivered,5.0
+O0027,C123,2026-03-11,Electronics,1,$130.25,,delivered,2.0
+O0028,C089,2026-02-08,toys,3,$34.79,,delivered,3.0
+O0029,C036,2026-06-15,BEAUTY,2,$21.04,,delivered,2.0
+O0030,C094,2026-06-19,toys,1,$18.37,,cancelled,
+O0031,C096,2026-02-28,Electronics,1,$192.16,,delivered,3.0
+O0032,C110,2026-02-23,beauty,1,$14.98,,delivered,2.0
+O0033,C063,2026-06-19, books,2,$17.44,,delivered,
+O0034,C121,2026-04-04,Home,4,$32.62,,delivered,4.0
+O0035,C079,2026-05-03,Toys,2,$45.81,WELCOME,cancelled,
+O0036,C004,2026-02-11,BEAUTY,4,$10.19,,delivered,2.0
+O0037,C047,2026-01-30,Home,1,$59.17,,delivered,2.0
+O0038,C096,2026-03-23,Toys,1,$20.47,,delivered,
+O0039,C101,2026-01-31,electronics,2,$151.63,,delivered,4.0
+O0040,C012,2026-02-09, ELECTRONICS,2,$165.68,,returned,
+O0041,C007,2026-05-26,toys,1,$40.44,,delivered,2.0
+O0042,C095,2026-05-16,books,1,$14.51,,delivered,1.0
+O0043,C076,2026-06-24,home,4,$58.79,,returned,
+O0044,C050,2026-04-19,books,1,$19.43,WELCOME,delivered,1.0
+O0045,C102,2026-02-10,beauty,2,$42.19,,delivered,3.0
+O0046,C119,2026-06-17, home,1,$83.11,,delivered,5.0
+O0047,C032,2026-06-11,beauty,2,$27.72,,delivered,5.0
+O0048,C097,2026-06-18,home,2,$89.98,,returned,
+O0049,C033,2026-04-30,Electronics,3,$116.77,,delivered,
+O0050,C076,2026-03-31,Beauty,1,$28.02,VIP20,delivered,1.0
+O0051,C095,2026-04-27,BEAUTY,2,$36.73,,delivered,3.0
+O0052,C058,2026-06-10,books,2,$13.28,SAVE10,cancelled,
+O0053,C122,2026-06-28,HOME ,1,$58.34,,delivered,
+O0054,C013,2026-01-03, ELECTRONICS,3,$146.14,,delivered,5.0
+O0055,C089,2026-06-06,TOYS ,1,$59.76,,delivered,2.0
+O0056,C019,2026-04-21,BEAUTY,1,$31.68,VIP20,delivered,
+O0057,C046,2026-05-03,toys,3,$23.29,WELCOME,returned,
+O0058,C086,2026-04-23,BEAUTY,1,$38.68,,delivered,3.0
+O0059,C109,2026-01-30,electronics ,1,$55.48,,delivered,3.0
+O0060,C030,2026-05-17,Toys,2,$36.86,VIP20,delivered,4.0
+O0061,C034,2026-02-06,Beauty,2,$42.39,,delivered,4.0
+O0062,C106,2026-03-29,BEAUTY,2,$36.36,WELCOME,delivered,5.0
+O0063,C062,2026-05-24,books,1,$24.62,WELCOME,delivered,3.0
+O0064,C036,2026-01-12,Toys,1,$47.14,,delivered,
+O0065,C105,2026-05-21, books,4,$13.40,,delivered,5.0
+O0066,C035,2026-06-13,Home,1,$77.85,VIP20,cancelled,
+O0067,C030,2026-05-21,books,3,$10.94,WELCOME,cancelled,
+O0068,C040,2026-05-18,electronics ,1,$163.93,,delivered,5.0
+O0069,C106,2026-06-22,home,1,$30.34,,delivered,
+O0070,C086,2026-05-18,Beauty,1,$29.73,,delivered,
+O0071,C054,2026-06-11, home,4,$77.51,,delivered,3.0
+O0072,C079,2026-02-24,Beauty,4,$40.62,WELCOME,delivered,4.0
+O0073,C011,2026-03-09,beauty,4,$35.64,,delivered,
+O0074,C002,2026-04-11,Beauty,2,$30.45,VIP20,delivered,5.0
+O0075,C097,2026-01-29,HOME ,3,$49.28,SAVE10,returned,
+O0076,C075,2026-05-26,home,1,$42.41,,delivered,4.0
+O0077,C095,2026-05-23,books,2,$21.12,,delivered,5.0
+O0078,C011,2026-01-09,home,1,$42.70,,cancelled,
+O0079,C055,2026-06-14,Toys,2,$16.57,SAVE10,delivered,3.0
+O0080,C114,2026-05-05,TOYS ,4,$39.59,,delivered,4.0
+O0081,C039,2026-04-28,BEAUTY,2,$10.77,VIP20,delivered,2.0
+O0082,C044,2026-06-14,Electronics,1,$190.76,,delivered,3.0
+O0083,C044,2026-04-27,BEAUTY,1,$8.60,,delivered,
+O0084,C052,2026-04-12, home,1,$49.40,,delivered,1.0
+O0085,C005,2026-03-09,TOYS ,1,$21.78,,delivered,2.0
+O0086,C047,2026-03-17,books,1,$15.79,,returned,
+O0087,C039,2026-03-01, books,4,$6.37,,delivered,3.0
+O0088,C032,2026-02-24,TOYS ,3,$42.10,VIP20,delivered,
+O0089,C092,2026-06-20,TOYS ,4,$41.95,,delivered,5.0
+O0090,C012,2026-01-26, books,2,$10.40,,delivered,3.0
+O0091,C020,2026-05-08,books,3,$8.93,WELCOME,cancelled,
+O0092,C049,2026-05-11,Home,2,$43.38,,returned,
+O0093,C029,2026-05-26,Electronics,2,$185.20,SAVE10,delivered,5.0
+O0094,C087,2026-02-07,Beauty,1,$9.06,,cancelled,
+O0095,C016,2026-06-14,electronics ,3,$179.61,,returned,
+O0096,C110,2026-01-27, home,1,$84.73,,delivered,4.0
+O0097,C007,2026-03-25, ELECTRONICS,1,$234.14,,returned,
+O0098,C019,2026-04-11,beauty,2,$19.83,,delivered,2.0
+O0099,C044,2026-05-04,Books,1,$19.28,WELCOME,delivered,5.0
+O0100,C014,2026-04-18,Electronics,4,$216.62,WELCOME,delivered,5.0
+O0101,C007,2026-03-21,electronics,1,$70.72,,delivered,5.0
+O0102,C046,2026-04-24, home,1,$37.26,VIP20,delivered,1.0
+O0103,C067,2026-02-01,home,1,$76.63,,delivered,4.0
+O0104,C074,2026-05-19,toys,3,$48.12,,delivered,2.0
+O0105,C019,2026-02-06,Toys,3,$34.75,,delivered,5.0
+O0106,C029,2026-03-19,beauty,3,$33.32,,delivered,3.0
+O0107,C070,2026-01-17,TOYS ,2,$43.13,,delivered,1.0
+O0108,C034,2026-05-24,Electronics,2,$162.87,,delivered,1.0
+O0109,C041,2026-06-10,Electronics,2,$196.31,,delivered,2.0
+O0110,C085,2026-05-10,BEAUTY,1,$33.86,VIP20,cancelled,
+O0111,C006,2026-04-17,electronics,1,$135.23,VIP20,delivered,
+O0112,C079,2026-06-19,HOME ,1,$85.30,,delivered,4.0
+O0113,C037,2026-06-03,beauty,3,$15.82,,delivered,5.0
+O0114,C094,2026-01-25, home,1,$54.25,WELCOME,delivered,4.0
+O0115,C099,2026-05-27,HOME ,3,$43.44,WELCOME,delivered,
+O0116,C083,2026-06-20,electronics ,1,$57.77,,delivered,3.0
+O0117,C122,2026-05-16,Electronics,2,$196.36,SAVE10,delivered,2.0
+O0118,C041,2026-01-12,Home,2,$22.07,,delivered,2.0
+O0119,C094,2026-05-31,home,3,$52.68,,delivered,1.0
+O0120,C064,2026-01-18,toys,1,$18.57,,delivered,3.0
+O0121,C110,2026-02-04,beauty,2,$36.52,,returned,
+O0122,C070,2026-01-04,Toys,1,$34.44,,delivered,1.0
+O0123,C065,2026-02-19,Beauty,2,$12.75,,delivered,5.0
+O0124,C100,2026-01-27,beauty,1,$18.13,,delivered,3.0
+O0125,C114,2026-01-03,HOME ,2,$61.73,SAVE10,delivered,1.0
+O0126,C080,2026-02-23,Electronics,3,$174.69,,cancelled,
+O0127,C029,2026-03-10,books,1,$15.30,VIP20,delivered,4.0
+O0128,C096,2026-03-21,electronics ,2,$166.87,,delivered,
+O0129,C122,2026-06-20,TOYS ,4,$57.33,,returned,
+O0130,C077,2026-06-22,electronics ,3,$235.35,,delivered,1.0
+O0131,C089,2026-02-21, books,4,$9.23,,returned,
+O0132,C069,2026-06-10,TOYS ,1,$19.21,,cancelled,
+O0133,C103,2026-01-28,beauty,4,$18.19,,returned,
+O0134,C032,2026-05-24, ELECTRONICS,1,$165.64,SAVE10,delivered,
+O0135,C019,2026-02-08,HOME ,1,$48.66,,delivered,4.0
+O0136,C097,2026-02-13,electronics,1,$94.01,,delivered,3.0
+O0137,C107,2026-04-04, books,1,$20.60,,delivered,
+O0138,C040,2026-04-24,electronics ,4,$64.56,,returned,
+O0139,C080,2026-03-05,Electronics,2,$171.58,VIP20,returned,
+O0140,C039,2026-05-28, ELECTRONICS,2,$126.76,,returned,
+O0141,C078,2026-03-25, home,1,$66.09,,returned,
+O0142,C086,2026-05-05,electronics ,4,$99.17,,delivered,
+O0143,C059,2026-04-14,Beauty,1,$38.54,SAVE10,delivered,
+O0144,C058,2026-02-20,home,2,$39.69,WELCOME,delivered,3.0
+O0145,C059,2026-06-13, home,1,$40.65,,delivered,
+O0146,C111,2026-05-09,BEAUTY,1,$43.70,,delivered,4.0
+O0147,C061,2026-01-06,BEAUTY,1,$13.28,,delivered,
+O0148,C082,2026-03-25, ELECTRONICS,2,$49.28,,delivered,1.0
+O0149,C054,2026-02-10,BEAUTY,1,$42.53,SAVE10,delivered,4.0
+O0150,C069,2026-06-17, home,1,$77.83,,delivered,
+O0151,C117,2026-03-09,home,1,$74.96,,delivered,
+O0152,C119,2026-02-19,Home,3,$31.21,,delivered,2.0
+O0153,C054,2026-05-31,Electronics,2,$134.83,SAVE10,delivered,3.0
+O0154,C105,2026-01-25,TOYS ,3,$38.33,WELCOME,delivered,3.0
+O0155,C073,2026-03-30,electronics,2,$121.26,,delivered,1.0
+O0156,C082,2026-03-26,books,1,$7.26,VIP20,delivered,
+O0157,C036,2026-06-19,toys,1,$32.81,VIP20,delivered,
+O0158,C085,2026-02-28,electronics ,3,$51.54,,returned,
+O0159,C051,2026-06-08, home,1,$64.92,,cancelled,
+O0160,C062,2026-06-09,Electronics,2,$158.30,SAVE10,delivered,
+O0161,C074,2026-02-26,Home,3,$32.10,,delivered,
+O0162,C088,2026-03-28,Electronics,2,$87.72,SAVE10,delivered,2.0
+O0163,C079,2026-02-06,electronics ,1,$202.15,,delivered,
+O0164,C001,2026-01-08,electronics ,3,$172.79,,delivered,2.0
+O0165,C004,2026-04-26,Electronics,1,$141.46,VIP20,delivered,4.0
+O0166,C116,2026-05-02,beauty,1,$33.28,,returned,
+O0167,C024,2026-06-12,Home,3,$38.83,,delivered,5.0
+O0168,C097,2026-04-25,beauty,1,$34.68,VIP20,delivered,1.0
+O0169,C092,2026-06-22,electronics,2,$193.82,,delivered,1.0
+O0170,C084,2026-06-21,HOME ,1,$87.53,,returned,
+O0171,C008,2026-02-24,Toys,1,$41.94,,cancelled,
+O0172,C039,2026-02-28,BEAUTY,2,$11.61,SAVE10,delivered,1.0
+O0173,C028,2026-02-23, ELECTRONICS,3,$80.68,,delivered,2.0
+O0174,C039,2026-03-27, ELECTRONICS,2,$171.69,,delivered,1.0
+O0175,C023,2026-06-12,Toys,1,$14.39,SAVE10,delivered,5.0
+O0176,C002,2026-06-29,HOME ,1,$33.61,,delivered,5.0
+O0177,C078,2026-02-28,home,1,$31.02,VIP20,delivered,5.0
+O0178,C038,2026-01-10,books,3,$13.55,,delivered,
+O0179,C099,2026-05-28,TOYS ,1,$23.66,SAVE10,delivered,2.0
+O0180,C038,2026-06-30,HOME ,4,$45.16,,delivered,1.0
+O0181,C006,2026-01-07,Electronics,4,$191.08,SAVE10,delivered,1.0
+O0182,C023,2026-04-20,home,1,$59.04,,returned,
+O0183,C065,2026-06-05,electronics ,1,$165.16,SAVE10,returned,
+O0184,C071,2026-03-31,TOYS ,2,$46.92,WELCOME,delivered,
+O0185,C092,2026-04-24,home,1,$63.65,,delivered,
+O0186,C094,2026-03-11, home,2,$47.12,,delivered,1.0
+O0187,C008,2026-05-06,electronics ,4,$207.97,,delivered,2.0
+O0188,C058,2026-01-17, home,1,$85.90,,delivered,5.0
+O0189,C016,2026-02-02, ELECTRONICS,1,$229.92,,returned,
+O0190,C060,2026-04-18,electronics,1,$40.67,SAVE10,cancelled,
+O0191,C077,2026-05-21, ELECTRONICS,1,$160.41,VIP20,delivered,2.0
+O0192,C090,2026-02-21,HOME ,4,$30.97,WELCOME,delivered,4.0
+O0193,C121,2026-04-02,beauty,1,$23.43,,returned,
+O0194,C091,2026-05-22,BEAUTY,1,$17.26,,returned,
+O0195,C034,2026-04-30,TOYS ,1,$28.67,,delivered,3.0
+O0196,C031,2026-03-14,Beauty,4,$44.48,,delivered,4.0
+O0197,C003,2026-01-19, home,2,$66.86,,delivered,2.0
+O0198,C061,2026-05-20,Home,1,$42.82,SAVE10,delivered,1.0
+O0199,C041,2026-03-29,Home,2,$49.51,WELCOME,delivered,1.0
+O0200,C079,2026-05-08,books,3,$21.25,WELCOME,delivered,2.0
+O0201,C044,2026-04-14, home,1,$19.67,WELCOME,delivered,5.0
+O0202,C102,2026-01-04,home,4,$50.64,,cancelled,
+O0203,C094,2026-06-03,home,1,$69.33,,cancelled,
+O0204,C061,2026-01-18,Home,2,$15.93,,returned,
+O0205,C085,2026-05-16, ELECTRONICS,2,$167.14,WELCOME,delivered,
+O0206,C098,2026-01-09,Books,3,$19.25,VIP20,delivered,4.0
+O0207,C119,2026-03-22,HOME ,1,$72.62,,delivered,5.0
+O0208,C048,2026-03-30,Books,1,$13.32,,delivered,
+O0209,C031,2026-01-01,Toys,1,$18.93,,returned,
+O0210,C090,2026-01-27,HOME ,2,$77.96,,delivered,
+O0211,C047,2026-03-31,electronics ,2,$161.80,,delivered,
+O0212,C079,2026-01-10,HOME ,2,$49.16,WELCOME,delivered,2.0
+O0213,C018,2026-02-11,books,3,$11.47,,delivered,
+O0214,C028,2026-06-02,electronics ,1,$230.55,,delivered,5.0
+O0215,C032,2026-02-09,electronics ,1,$198.22,,delivered,
+O0216,C070,2026-01-22,HOME ,2,$37.70,,delivered,1.0
+O0217,C109,2026-01-20,TOYS ,2,$55.26,VIP20,cancelled,
+O0218,C123,2026-06-30,Electronics,1,$120.79,,cancelled,
+O0219,C069,2026-02-08,electronics,3,$89.32,,delivered,
+O0220,C104,2026-03-21,Books,2,$18.17,,delivered,
+O0221,C053,2026-06-14,electronics ,2,$242.65,,returned,
+O0222,C037,2026-05-22, books,1,$11.01,SAVE10,delivered,
+O0223,C113,2026-02-19,books,1,$19.52,,returned,
+O0224,C090,2026-05-02,electronics,1,$182.05,,delivered,1.0
+O0225,C044,2026-03-03, home,2,$56.89,VIP20,delivered,4.0
+O0226,C067,2026-04-23,books,2,$10.39,,delivered,
+O0227,C085,2026-01-30,Beauty,2,$39.97,WELCOME,delivered,5.0
+O0228,C021,2026-01-28, books,1,$6.32,,delivered,2.0
+O0229,C084,2026-06-03,Books,1,$11.08,,cancelled,
+O0230,C076,2026-01-22,electronics ,2,$42.04,,delivered,1.0
+O0231,C003,2026-04-26,Toys,2,$29.58,,delivered,
+O0232,C075,2026-04-11,BEAUTY,2,$35.33,,delivered,2.0
+O0233,C071,2026-05-21,electronics,1,$246.86,,delivered,
+O0234,C084,2026-01-30,Beauty,1,$8.29,,delivered,5.0
+O0235,C109,2026-03-28,Books,4,$18.59,SAVE10,delivered,
+O0236,C104,2026-05-24, home,3,$40.32,,delivered,5.0
+O0237,C119,2026-05-31,TOYS ,4,$10.75,,delivered,
+O0238,C065,2026-06-28,home,3,$80.45,,delivered,5.0
+O0239,C014,2026-01-25,electronics ,3,$193.76,,delivered,5.0
+O0240,C040,2026-06-29,home,2,$57.82,VIP20,delivered,
+O0241,C063,2026-06-29,toys,1,$29.43,,returned,
+O0242,C032,2026-05-10,electronics ,1,$173.47,SAVE10,delivered,
+O0243,C092,2026-02-27,Books,4,$10.59,,delivered,4.0
+O0244,C036,2026-05-18,home,3,$64.42,,delivered,
+O0245,C120,2026-04-12,TOYS ,4,$24.39,,delivered,2.0
+O0246,C003,2026-03-27, books,3,$6.42,,delivered,3.0
+O0247,C037,2026-04-21,Electronics,4,$207.19,,delivered,2.0
+O0248,C016,2026-05-26, ELECTRONICS,3,$146.51,,delivered,
+O0249,C041,2026-05-15,HOME ,1,$28.46,,delivered,1.0
+O0250,C029,2026-04-16,toys,1,$31.70,,delivered,2.0
+O0251,C114,2026-02-27,electronics,2,$79.68,,delivered,
+O0252,C041,2026-06-21, home,2,$88.11,,cancelled,
+O0253,C056,2026-04-23,electronics ,1,$201.69,,delivered,4.0
+O0254,C013,2026-02-07,Electronics,1,$126.03,,delivered,
+O0255,C042,2026-05-16, home,2,$46.06,,returned,
+O0256,C070,2026-04-20,Beauty,1,$44.58,,delivered,1.0
+O0257,C053,2026-06-16,TOYS ,2,$54.13,,delivered,1.0
+O0258,C053,2026-01-09,BEAUTY,1,$18.39,,cancelled,
+O0259,C107,2026-02-25, ELECTRONICS,1,$110.43,SAVE10,delivered,2.0
+O0260,C080,2026-03-11,TOYS ,3,$39.89,SAVE10,delivered,
+O0261,C118,2026-04-13,HOME ,4,$71.67,,delivered,3.0
+O0262,C017,2026-03-29,BEAUTY,1,$8.28,,delivered,
+O0263,C007,2026-01-11,beauty,1,$10.93,,cancelled,
+O0264,C076,2026-05-05,BEAUTY,1,$39.42,WELCOME,cancelled,
+O0265,C078,2026-01-27,home,4,$36.10,,delivered,
+O0266,C032,2026-06-24,beauty,1,$8.35,,delivered,
+O0267,C088,2026-06-12, books,3,$19.90,,returned,
+O0268,C116,2026-05-18,electronics,1,$200.67,SAVE10,delivered,3.0
+O0269,C107,2026-02-05,Beauty,2,$19.99,VIP20,delivered,
+O0270,C104,2026-05-26,Home,2,$72.43,,delivered,3.0
+O0271,C041,2026-05-07,electronics ,3,$217.03,,delivered,2.0
+O0272,C064,2026-06-02,TOYS ,2,$23.95,,delivered,
+O0273,C083,2026-06-13,BEAUTY,2,$43.18,,delivered,4.0
+O0274,C026,2026-03-10,Toys,1,$29.27,,delivered,5.0
+O0275,C015,2026-06-11,HOME ,2,$45.90,,delivered,4.0
+O0276,C103,2026-03-12,electronics,2,$187.12,SAVE10,delivered,3.0
+O0277,C048,2026-02-11, ELECTRONICS,1,$165.32,SAVE10,delivered,4.0
+O0278,C083,2026-02-05,Books,1,$20.70,,delivered,1.0
+O0279,C043,2026-01-31, ELECTRONICS,1,$200.94,VIP20,delivered,1.0
+O0280,C076,2026-03-07,home,2,$38.46,VIP20,delivered,
+O0281,C034,2026-02-26, home,2,$49.20,,delivered,2.0
+O0282,C097,2026-05-31, books,1,$24.00,,delivered,4.0
+O0283,C015,2026-05-28,Electronics,3,$142.15,SAVE10,delivered,
+O0284,C050,2026-04-14, ELECTRONICS,4,$244.48,VIP20,delivered,1.0
+O0285,C025,2026-06-23, home,1,$64.80,,delivered,
+O0286,C014,2026-05-17,beauty,4,$33.83,,delivered,2.0
+O0287,C052,2026-03-24,BEAUTY,2,$12.09,WELCOME,delivered,3.0
+O0288,C054,2026-03-19,electronics ,2,$161.05,SAVE10,cancelled,
+O0289,C072,2026-02-15,Electronics,4,$77.68,,delivered,3.0
+O0290,C098,2026-04-21,toys,2,$36.01,,returned,
+O0291,C082,2026-03-15, books,1,$18.98,,delivered,4.0
+O0292,C002,2026-04-18,beauty,1,$17.61,,delivered,
+O0293,C038,2026-06-18,Beauty,1,$36.57,,delivered,2.0
+O0294,C113,2026-02-22,electronics,2,$190.54,WELCOME,returned,
+O0295,C075,2026-01-02,beauty,3,$17.16,VIP20,delivered,3.0
+O0296,C119,2026-03-01,Beauty,1,$34.70,WELCOME,delivered,
+O0297,C114,2026-04-21,electronics ,1,$89.25,,delivered,5.0
+O0298,C106,2026-04-11, ELECTRONICS,3,$87.92,,delivered,2.0
+O0299,C022,2026-06-14,home,4,$56.93,SAVE10,delivered,3.0
+O0300,C045,2026-01-10, ELECTRONICS,2,$123.93,,delivered,3.0
+O0301,C023,2026-01-23,Home,3,$53.18,,delivered,2.0
+O0302,C112,2026-03-06,Toys,1,$34.63,,delivered,2.0
+O0303,C070,2026-02-06,toys,3,$45.22,WELCOME,delivered,1.0
+O0304,C075,2026-05-30,HOME ,1,$51.45,,delivered,
+O0305,C079,2026-03-30,Beauty,1,$24.59,,delivered,4.0
+O0306,C118,2026-02-20,Electronics,1,$168.52,VIP20,delivered,
+O0307,C041,2026-02-20,BEAUTY,2,$26.98,,delivered,5.0
+O0308,C111,2026-01-14,toys,2,$19.40,,delivered,
+O0309,C039,2026-03-01,Toys,3,$49.46,,delivered,
+O0310,C009,2026-01-07,Books,4,$18.83,VIP20,delivered,2.0
+O0311,C052,2026-06-21,electronics ,1,$148.23,,delivered,1.0
+O0312,C115,2026-04-09,electronics,4,$112.58,WELCOME,delivered,5.0
+O0313,C057,2026-01-01,electronics,1,$165.85,,delivered,5.0
+O0314,C021,2026-05-23,Home,3,$30.08,WELCOME,delivered,
+O0315,C055,2026-06-02, ELECTRONICS,1,$75.27,,delivered,1.0
+O0316,C078,2026-06-09,HOME ,1,$48.27,,delivered,1.0
+O0317,C053,2026-01-06,toys,4,$46.16,SAVE10,delivered,3.0
+O0318,C062,2026-03-19, home,2,$79.97,VIP20,delivered,
+O0319,C122,2026-02-26,Electronics,2,$109.08,,cancelled,
+O0320,C094,2026-01-16,HOME ,2,$67.71,VIP20,returned,
+O0321,C041,2026-06-17,toys,1,$42.09,,returned,
+O0322,C094,2026-05-30,HOME ,3,$49.06,VIP20,delivered,2.0
+O0323,C044,2026-03-01, books,1,$21.80,WELCOME,delivered,2.0
+O0324,C111,2026-01-21, ELECTRONICS,1,$86.59,,delivered,3.0
+O0325,C048,2026-04-13,electronics,1,$57.44,,delivered,2.0
+O0326,C093,2026-03-08,TOYS ,2,$24.09,,delivered,5.0
+O0327,C074,2026-04-03,home,2,$50.63,,delivered,2.0
+O0328,C095,2026-03-24,Beauty,3,$17.52,,cancelled,
+O0329,C083,2026-03-20, home,1,$67.76,,delivered,3.0
+O0330,C021,2026-02-06,Home,1,$42.59,VIP20,delivered,5.0
+O0331,C114,2026-01-25,toys,1,$15.20,,delivered,3.0
+O0332,C052,2026-02-12,Electronics,2,$45.12,VIP20,delivered,2.0
+O0333,C024,2026-03-10,home,3,$89.45,VIP20,delivered,
+O0334,C118,2026-04-17,BEAUTY,1,$18.24,,returned,
+O0335,C059,2026-01-08,BEAUTY,2,$20.36,VIP20,cancelled,
+O0336,C025,2026-06-20,Beauty,1,$14.79,VIP20,cancelled,
+O0337,C044,2026-02-27, books,1,$7.74,,delivered,1.0
+O0338,C108,2026-05-20,BEAUTY,1,$11.38,,delivered,3.0
+O0339,C101,2026-06-10,HOME ,2,$30.92,,delivered,
+O0340,C106,2026-06-15, home,1,$31.02,SAVE10,delivered,
+O0341,C103,2026-06-30,Toys,4,$27.59,,delivered,3.0
+O0342,C123,2026-04-21,HOME ,4,$37.95,VIP20,delivered,4.0
+O0343,C019,2026-01-04,Books,2,$8.44,,delivered,5.0
+O0344,C113,2026-02-28,TOYS ,3,$29.39,,delivered,1.0
+O0345,C078,2026-04-08, books,2,$13.02,,delivered,5.0
+O0346,C081,2026-03-16,BEAUTY,3,$12.73,,delivered,
+O0347,C007,2026-02-11,HOME ,2,$28.62,SAVE10,delivered,3.0
+O0348,C075,2026-05-02,Beauty,1,$41.97,,cancelled,
+O0349,C072,2026-05-30,toys,1,$14.99,,delivered,1.0
+O0350,C002,2026-01-22,Home,1,$20.55,,delivered,5.0
+O0351,C052,2026-02-04,HOME ,3,$41.71,WELCOME,delivered,2.0
+O0352,C116,2026-01-01,Toys,2,$16.39,,delivered,5.0
+O0353,C092,2026-04-25,toys,2,$26.12,VIP20,cancelled,
+O0354,C115,2026-01-12, books,2,$20.72,,cancelled,
+O0355,C001,2026-06-11,Electronics,4,$133.69,,delivered,4.0
+O0356,C089,2026-06-20,toys,1,$37.52,,delivered,
+O0357,C093,2026-02-12, books,1,$16.41,,delivered,4.0
+O0358,C001,2026-01-21,toys,4,$31.91,,delivered,
+O0359,C008,2026-06-24,home,2,$17.80,,delivered,
+O0360,C020,2026-01-31,Home,2,$54.80,,delivered,3.0
+O0361,C049,2026-02-21,Beauty,1,$20.13,SAVE10,delivered,1.0
+O0362,C042,2026-03-05,BEAUTY,3,$43.37,,returned,
+O0363,C072,2026-04-01,HOME ,4,$50.59,,delivered,2.0
+O0364,C108,2026-02-22,Toys,1,$36.39,,cancelled,
+O0365,C028,2026-02-24,Books,1,$16.13,,delivered,2.0
+O0366,C038,2026-05-06,Home,4,$68.29,,delivered,4.0
+O0367,C075,2026-01-03,Electronics,2,$120.15,,delivered,3.0
+O0368,C112,2026-03-30,BEAUTY,1,$24.20,,delivered,2.0
+O0369,C083,2026-02-12,electronics,2,$173.65,,cancelled,
+O0370,C014,2026-06-13,TOYS ,1,$28.88,,delivered,2.0
+O0371,C081,2026-01-08,Electronics,2,$150.82,,delivered,4.0
+O0372,C071,2026-06-26,TOYS ,1,$41.22,VIP20,delivered,2.0
+O0373,C082,2026-02-22,toys,3,$49.59,,returned,
+O0374,C040,2026-01-07, books,2,$10.90,WELCOME,delivered,1.0
+O0375,C077,2026-04-26,electronics ,3,$67.16,,returned,
+O0376,C087,2026-01-05,toys,1,$24.83,,delivered,
+O0377,C087,2026-06-29,HOME ,1,$16.78,,delivered,
+O0378,C005,2026-05-11,Beauty,1,$24.28,,delivered,2.0
+O0379,C021,2026-01-23,home,4,$69.53,,delivered,3.0
+O0380,C006,2026-06-04,BEAUTY,1,$9.68,VIP20,delivered,5.0
+O0381,C078,2026-03-23, ELECTRONICS,1,$179.27,VIP20,delivered,
+O0382,C105,2026-03-06, ELECTRONICS,4,$137.82,VIP20,delivered,1.0
+O0383,C116,2026-05-18,Beauty,1,$8.79,,delivered,
+O0384,C008,2026-03-12, books,1,$17.21,SAVE10,returned,
+O0385,C023,2026-04-24,BEAUTY,2,$14.77,,delivered,4.0
+O0386,C017,2026-03-19, books,2,$17.73,,delivered,1.0
+O0387,C112,2026-01-21, books,3,$23.28,,delivered,1.0
+O0388,C063,2026-04-01,home,2,$40.90,SAVE10,delivered,
+O0389,C052,2026-03-29, home,1,$87.94,,delivered,2.0
+O0390,C047,2026-02-14,toys,3,$15.91,,cancelled,
+O0391,C037,2026-02-11,HOME ,1,$52.14,WELCOME,delivered,2.0
+O0392,C035,2026-05-26,HOME ,4,$35.34,,delivered,2.0
+O0393,C090,2026-03-08,Beauty,1,$13.34,,delivered,3.0
+O0394,C041,2026-04-23,Beauty,1,$41.47,,delivered,3.0
+O0395,C072,2026-05-15,BEAUTY,2,$42.34,WELCOME,delivered,
+O0396,C107,2026-06-01,TOYS ,4,$34.46,,delivered,
+O0397,C009,2026-02-14,home,1,$28.88,WELCOME,delivered,2.0
+O0398,C062,2026-04-13,home,1,$41.94,,delivered,
+O0399,C012,2026-02-12,TOYS ,2,$28.24,WELCOME,delivered,
+O0400,C051,2026-03-06, books,4,$20.88,,cancelled,
+O0401,C094,2026-05-27,electronics,2,$149.51,,delivered,
+O0402,C105,2026-05-09,Beauty,4,$16.05,,delivered,
+O0403,C121,2026-06-20,Home,1,$21.60,,delivered,1.0
+O0404,C063,2026-04-24,Toys,3,$43.02,WELCOME,delivered,4.0
+O0405,C052,2026-02-26, home,1,$20.27,,delivered,
+O0406,C005,2026-05-11,home,3,$42.49,,delivered,1.0
+O0407,C085,2026-01-03,home,1,$78.64,,delivered,2.0
+O0408,C003,2026-06-25,Electronics,1,$52.25,,delivered,
+O0409,C026,2026-05-12,beauty,1,$14.09,,delivered,2.0
+O0410,C025,2026-01-14,books,2,$8.62,,cancelled,
+O0411,C086,2026-05-27,Books,4,$11.98,,delivered,
+O0412,C103,2026-03-02,HOME ,2,$70.66,,delivered,
+O0413,C058,2026-06-15, ELECTRONICS,1,$159.73,WELCOME,delivered,4.0
+O0414,C086,2026-04-19,TOYS ,2,$42.98,SAVE10,delivered,
+O0415,C044,2026-06-22,HOME ,1,$53.39,,cancelled,
+O0416,C070,2026-05-11,Books,1,$18.14,VIP20,delivered,4.0
+O0417,C065,2026-04-05,HOME ,3,$69.87,VIP20,delivered,2.0
+O0418,C074,2026-04-29,beauty,1,$27.83,,delivered,
+O0419,C077,2026-05-13,beauty,2,$44.57,,delivered,5.0
+O0420,C011,2026-06-18, books,4,$9.06,,delivered,1.0
